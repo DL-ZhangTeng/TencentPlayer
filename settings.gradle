@@ -1,0 +1,3 @@
+rootProject.name = "TencentPlayer"
+include ':app'
+include ':superplayer'

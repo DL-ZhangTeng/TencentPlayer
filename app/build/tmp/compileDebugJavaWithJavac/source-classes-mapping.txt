@@ -1,0 +1,4 @@
+com/zhangteng/tencentplayer/MainActivity.java
+ com.zhangteng.tencentplayer.MainActivity
+com/zhangteng/tencentplayer/BuildConfig.java
+ com.zhangteng.tencentplayer.BuildConfig
