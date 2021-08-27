@@ -41,6 +41,7 @@ dependencies {
     implementation 'androidx.constraintlayout:constraintlayout:2.0.1'
     implementation 'androidx.appcompat:appcompat:1.2.0'
     implementation 'com.google.android.material:material:1.2.1'
-    api(name: 'LiteAVSDK_Professional_7.1.8771', ext: 'aar')
+//    api(name: 'LiteAVSDK_Professional_7.1.8771', ext: 'aar')
+    api 'com.tencent.liteav:LiteAVSDK_Player:9.0.10437'
     implementation 'com.github.ctiao:DanmakuFlameMaster:0.5.3'
 }
